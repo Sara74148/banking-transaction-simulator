@@ -29,7 +29,37 @@ The Banking Transaction Simulator is a desktop application developed using Java 
 
 ## Screenshots
 
-Screenshots will be added soon.
+## Screenshots
+
+### Welcome Panel
+![Welcome Panel](welcome%20panel.png)
+
+### Create Account
+![Create Account](create%20account%20panel.png)
+
+### Create Account (Example)
+![Create Account Example](create%20account%202.png)
+
+### Deposit Funds
+![Deposit Funds](deposit%20fund%20panel.png)
+
+### Deposit Successful
+![Deposit Successful](deposit%20fund%20working.png)
+
+### Transfer Funds
+![Transfer Funds](transfer%20amount%20panel.png)
+
+### Withdraw Funds
+![Withdraw Funds](withdraw%20fund%20panel.png)
+
+### Account Details
+![Account Details](account%20details%20panel.png)
+
+### Pending Transactions
+![Pending Transactions](pending%20transaction%20panel.png)
+
+### Transaction History
+![Transaction History](transaction%20history.png)
 
 ## How to Run
 1. Clone this repository.
